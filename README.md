@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<h2>sanket</h2>
+<h1>Hii i'm Sanket Malaviya</h1>
 
 
